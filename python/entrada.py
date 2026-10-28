@@ -1,0 +1,5 @@
+print("------------práctica----------------")
+a = input("escribe tu nombre: ")
+b = input("escribe tu edad: ")
+c = input("escribe el nombre de tu perro: ")
+print("hola soy",a,"tengo",b,"años y el nombre de mi perro es",c,"gracias")
